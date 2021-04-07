@@ -5,7 +5,7 @@
  * @category   Applications
  * @package    CodeIgniter
  * @subpackage Config
- * @author     Sal Miccicke <sal.miccicke@bt.com>
+ * @author     Sal Miccicke <salvator@plan-9.com>
  * @since      Version 1.0
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
